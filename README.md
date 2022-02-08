@@ -11,7 +11,7 @@
   
 <Div style="display: inline_block"><br>
   <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><h2/>
-  <p>
+  <p style="font-size: 16px">
     Hi, I'm Alan Chriss Antony, a passionate self-taught python developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with impressive results. I take great care of the experience, architecture, and code quality of the things I build.
   <p/>
   <br>
